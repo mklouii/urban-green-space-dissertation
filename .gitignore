@@ -1,0 +1,13 @@
+# Python / Jupyter
+__pycache__/
+.ipynb_checkpoints/
+.env
+venv/
+
+# System files
+.DS_Store
+
+# Heavy raw data
+data/raw/*
+data/geospatial/*
+
